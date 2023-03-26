@@ -7,4 +7,6 @@ Game has 3 modes:
 3. Player vs. Player.
 The transition between the modes is explained in the code.
 Here is the image of game:
+
+
 ![My Image](tic-tac-toe-ai.png)
